@@ -1,0 +1,12 @@
+sxm:
+  token_rest_url: "XXXXXXXXXXX"
+  token_secret: "XXXXXXXXXXXXXXXXXXX"
+  account_details_url: "https://XXXXX"
+  source_name: "XXXX"
+  transaction_id: "AXXX"
+
+database:
+  host: "your_mysql_host"
+  user: "your_mysql_user"
+  password: "your_mysql_password"
+  name: "your_database_name"
